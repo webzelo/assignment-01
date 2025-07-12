@@ -39,6 +39,11 @@ h4{
     color: #252432;
     text-align: center;
 }
+.banner-title-02{
+    font-size: 38px;
+    color: #252432;
+    text-align: center;
+}
 .paragraph{
     font-size: 24px;
     color: #252432;
@@ -51,4 +56,30 @@ h4{
 }
 .img-section-01{
     border-radius: 48px;
+}
+.value{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.value-2{
+    font-weight: 800;
+    font-size: 80px;
+    color: #4E47FF;
+    margin: 0px 158px 0px 142px;
+}
+.value-3{
+    font-size: 20px;
+    font-weight: 400;
+    color: #000000;
+    margin: 0px 158px 0px 142px;
+}
+.section-2{
+    margin: 100px 100px;
+    border-radius: 10px;
+    padding: 80px 150px;
+    text-align: center;
+    background-color: #e5e7ff;
+    
 }
