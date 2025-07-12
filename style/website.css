@@ -116,4 +116,20 @@ input[type="email"], input[type="text"], textarea{
     margin-bottom: 24px;
     border: none;
 }
+.footer-section{
+    background-color: white;
 
+}
+.footer-logo{
+    font-size: 100px;
+    text-align: center;
+    margin: 0 auto;
+}
+.footer-p{
+    text-align: center;
+}
+.footer-btn{
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
