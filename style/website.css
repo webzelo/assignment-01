@@ -49,6 +49,23 @@ h5{
     color: #252432;
     text-align: center;
 }
+.review-column{
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+    margin: 100px 150px;
+}
+.review-column2{
+    background-color: white;
+    border-radius: 14px;
+    padding: 24px;
+}
+.review-t{
+    font-weight: bold;
+}
+.reviewer{
+    color: #a6a7a9;
+}
 .paragraph{
     font-size: 24px;
     color: #252432;
@@ -118,7 +135,6 @@ input[type="email"], input[type="text"], textarea{
 }
 .footer-section{
     background-color: white;
-
 }
 .footer-logo{
     font-size: 100px;
