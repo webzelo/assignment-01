@@ -39,10 +39,13 @@ h5{
     font-size: 97px;
     color: black;
 }
+.banner{
+    text-align: center;
+}
 .banner-title{
     font-size: 65px;
     color: #252432;
-    text-align: center;
+    text-align: center;;
 }
 .banner-title-02{
     font-size: 38px;
@@ -74,7 +77,7 @@ h5{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 0px 200px;
+    margin: 100px 200px;
 }
 .img-section-01{
     border-radius: 48px;
@@ -135,11 +138,11 @@ input[type="email"], input[type="text"], textarea{
 }
 .footer-section{
     background-color: white;
+    padding: 50px;
 }
 .footer-logo{
     font-size: 100px;
     text-align: center;
-    margin: 0 auto;
 }
 .footer-p{
     text-align: center;
