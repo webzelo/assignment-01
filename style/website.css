@@ -35,6 +35,10 @@ h4{
     font-size: 42px;
     color: #252432;
 }
+h5{
+    font-size: 97px;
+    color: black;
+}
 .banner-title{
     font-size: 65px;
     color: #252432;
@@ -93,3 +97,23 @@ h4{
 .bg-color{
     background-color: #f5f8ff;
 }
+.section-4{
+    display: flex;
+    padding: 130px 230px; 
+}
+.column-1{
+    width: 50%;
+    align-content: center;
+    align-items: center;
+}
+input[type="email"], input[type="text"], textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
+
